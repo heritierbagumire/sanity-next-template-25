@@ -1,6 +1,6 @@
 import React, { useState, useEffect, Fragment } from 'react'
 import { getIntegrationToken } from '@commercelayer/js-auth'
-import CommerceLayer from '../#components/auth/CommerceLayer'
+import CommerceLayer from 
 import { Nav } from '.'
 import OrderContainer from '../#components/OrderContainer'
 import VariantsContainer from '../#components/VariantsContainer'
